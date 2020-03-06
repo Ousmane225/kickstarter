@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/eb44ccf207bb4d27a6dd46c3f81b4230/artifacts
+end_time: 1583417475391
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: eb44ccf207bb4d27a6dd46c3f81b4230
+run_uuid: eb44ccf207bb4d27a6dd46c3f81b4230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1583417474697
+status: 3
+tags: []
+user_id: ousmane

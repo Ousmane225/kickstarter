@@ -1,0 +1,4 @@
+artifact_location: file:///home/ousmane/recap/kickstarter/notebook/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: sparkml
